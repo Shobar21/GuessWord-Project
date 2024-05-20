@@ -21,5 +21,5 @@ Active Internet Connection
  # Project video
  https://drive.google.com/file/d/15uhEsQuqL_YK2c3WurL19atRjH_g0yoZ/view?usp=sharing
 
- # Gitub Link
+ # Github Link
  https://github.com/Shobar21/GuessWord-Project
